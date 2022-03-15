@@ -1,3 +1,4 @@
+*This repo is moved from https://gitlab.com/alekseypopov10/*
 # 3. Stack
 
 The task is to create stack data structure containing
